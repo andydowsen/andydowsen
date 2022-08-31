@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Anshu, a high-school full-stack web developer, 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Anshu, a high-school full-stack web developer, 👨‍💻 working remotely since 2021 ✈🚀</div>  
   
 
 - 🔭 I’m currently working on [Ansnē ciao](https://ansne-ciao.vercel.app/)  
