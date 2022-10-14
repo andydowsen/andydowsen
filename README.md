@@ -92,9 +92,9 @@ All right, that's it.*
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ice-bear&hide_border=true&layout=compact" align="left" />  
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ice-bear&hide_border=true&layout=compact" align="right" /></div>  
 
 <br/>  
 
@@ -105,3 +105,4 @@ All right, that's it.*
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
