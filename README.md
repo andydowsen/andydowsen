@@ -107,7 +107,12 @@
 
 
 ### Progress  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-ice-bear&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>  
 
 <br/>  
 
