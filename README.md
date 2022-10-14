@@ -96,12 +96,3 @@ All right, that's it.*
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-ice-bear&hide_border=true&layout=compact" align="right" /></div>  
 
-<br/>  
-
-
-
-<br />
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=i-ice-bear&&style=flat-square" align="center" />
-</div>  
-----
