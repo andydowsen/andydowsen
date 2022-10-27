@@ -1,3 +1,6 @@
+# Hi
+## I'm Anshu Naagar
+
 # 💫 About Me:
 🔭 I’m currently working on the next store<br>🤝 I’m looking for help in C Data structures <br>🌱 I’m currently learning MongoDB and Python<br>💬 Ask me about the MERN stack and other related technologies<br>⚡ Fun fact: I always incognito tabs in chrome
 
