@@ -31,12 +31,13 @@
 
   
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false)<br/>
-[![](https://activity-graph.herokuapp.com/graph?username=i-ice-bear&theme=react-dark)]
+<img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="48%" align="right" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false" width="48%"/><br />
 
-#### My Main Projects
+![](https://activity-graph.herokuapp.com/graph?username=i-ice-bear&theme=react-dark)
 
+#### My project repositories
+![Store-card](https://github-readme-stats.vercel.app/api/pin/?username=i-ice-bear&repo=next-store)
 
 <!-- 
 ### ✍️ Random Dev Quote
