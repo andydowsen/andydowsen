@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Anshu</h1>
 <h3 align="center">A high school full stack web developer from India. Working remotely since 2020</h3> <br />
 
-<img align="right" alt="animated-gif" width="350" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="right" alt="animated-gif" width="350" height="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> <br />
 
 - 🔭 I’m currently working on [next-store](https://github.com/i-ice-bear/next-store)
 
@@ -28,7 +28,8 @@
 # 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false)<br/>
-<img src="https://komarev.com/ghpvc/?username=i-ice-bear&label=Profile%20views&color=0e75b6&style=flat" alt="i-ice-bear" />
+
+<div align="center"><img src="https://komarev.com/ghpvc/?username=i-ice-bear&label=Profile%20views&color=0e75b6&style=flat" alt="i-ice-bear" /></div>
 
 <!-- 
 ### ✍️ Random Dev Quote
