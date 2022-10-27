@@ -16,4 +16,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-<p align="center">[![](https://visitcount.itsvg.in/api?id=i-ice-bear&icon=9&color=1)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=i-ice-bear&icon=9&color=1)](https://visitcount.itsvg.in)
