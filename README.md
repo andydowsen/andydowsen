@@ -6,7 +6,9 @@
 
 ### <div align="center">A high school full-time full-stack web developer 👨‍💻 developing remotely since 2020 🚀</div>
 
-<img align="right" src="https://thumbs.gfycat.com/AliveHauntingGavial-size_restricted.gif" style="width:350px;height:250; object-fit:cover; margin-bottom:1rem"></img>
+<br />
+<img align="right" src="https://animesher.com/orig/0/79/799/7994/animesher.com_anime-boy-nine-computer-799422.gif" style="width:450px;height:250; object-fit:cover; margin-bottom:1rem"></img>
+<br />
 
 - 🔭 I’m currently working on [Voice assistant](https://github.com/i-ice-bear/voice-assistant)
 
@@ -20,13 +22,16 @@
 
 #### My project repositories
 
-<tr>
+<div style="display:block; row-gap:3px;">
 
-![Store-card](https://github-readme-stats.vercel.app/api/pin/?username=i-ice-bear&repo=next-store)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-ice-bear&repo=next-store" />
 
-![Store-card](https://github-readme-stats.vercel.app/api/pin/?username=i-ice-bear&repo=voice-assistant)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=i-ice-bear&repo=voice-assistant" />
 
-</tr>
+
+<br />
+
+</div>
 
 ## My Skill Set
 
@@ -104,9 +109,9 @@
 
 <tr valign="top" width="50%">
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false" align="right" width="470px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false" align="right" width="48%"/>
 </td>
-<tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false" width="470px"/><br /></tr>
+<tr><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false" width="48%"/><br /></tr>
 </tr>
 
 ![](https://activity-graph.herokuapp.com/graph?username=i-ice-bear&theme=react-dark)
