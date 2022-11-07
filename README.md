@@ -1,12 +1,12 @@
 <img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966"/>
 
-
+<img height="30%" src="https://64.media.tumblr.com/82807ec5841ef4c5a4abdf5ebef242ed/e85b3bfde641c7cc-b5/s1280x1920/006a4e6a665655cdba674a0b550c4a146179d8eb.gif" style="object-fit:cover;" />
 
 <h1 align="center">Hi 👋, I'm Anshu</h1>
 <h3 align="center">A high school full stack web developer 👨🏻‍💻 from India. Working remotely since 2020 🎉</h3> <br />
 
 
-<img align="right" alt="animated-gif" width="470" height="250" style="object-fit:cover; margin-bottom:3rem;" src="https://animesher.com/orig/0/79/799/7994/animesher.com_anime-boy-nine-computer-799422.gif" /> 
+<img src="https://64.media.tumblr.com/e1ecb12845be9391e462bbf375a2e051/cdbcd8a3085dc101-a8/s1280x1920/b009493118324384dd037f5f44599926459d816a.gif" align="right" alt="animated-gif" width="470" height="250" style="object-fit:cover; margin-bottom:3rem;" /> 
 
 
 - 🔭 I’m currently working on [next-store](https://github.com/i-ice-bear/next-store)
