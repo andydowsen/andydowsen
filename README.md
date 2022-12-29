@@ -86,6 +86,7 @@
 <a href="https://instagram.com/ice_bears._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ice_bears._" height="30" width="40" /></a>
 <a href="https://github.com/i-ice-bear" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ice_bears._" height="30" width="40" /></a>
 <a href="https://leetcode.com/anshu-naagar-4ansi992524b/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="ice_bears._" height="full" width="40" /></a>
+ <a href="https://medium.com/@andydowsen47us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@andydowsen47us" height="30" width="40" /></a>
 </p>
 
 
