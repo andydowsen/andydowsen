@@ -98,7 +98,8 @@
 # 📊 My GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=i-ice-bear&theme=react&hide_border=false&include_all_commits=true&count_private=false" width="48%" align="right" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&theme=react&hide_border=false" width="48%"/><br />
-<img src ="https://wakatime.com/share/@ice_bears_/da56cfed-3c6b-4a48-bc31-ca931a05a97b.svg" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://activity-graph.herokuapp.com/graph?username=i-ice-bear&theme=react-dark)
 
