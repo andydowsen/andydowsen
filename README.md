@@ -22,16 +22,16 @@ Skills: ReactJS / HTML / CSS / Javascript / Java / C / C++ / NodeJS / Assembly (
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 01 February 2023
+From: 18 January 2023 - To: 02 February 2023
 
-Total Time: 4 hrs 29 mins
+Total Time: 5 hrs 24 mins
 
-HTML         1 hr 5 mins     >>>>>>-------------------   24.27 %
-TypeScript   1 hr 4 mins     >>>>>>-------------------   23.81 %
-JSON         39 mins         >>>>---------------------   14.72 %
-Docker       31 mins         >>>----------------------   11.66 %
-Bash         27 mins         >>>----------------------   10.31 %
-SCSS         19 mins         >>-----------------------   07.13 %
+HTML         1 hr 14 mins    >>>>>>-------------------   22.96 %
+TypeScript   1 hr 11 mins    >>>>>--------------------   21.91 %
+JSON         1 hr 6 mins     >>>>>--------------------   20.55 %
+Docker       31 mins         >>-----------------------   09.68 %
+Bash         27 mins         >>-----------------------   08.56 %
+SCSS         22 mins         >>-----------------------   06.91 %
 ```
 
 <!--END_SECTION:waka-->
