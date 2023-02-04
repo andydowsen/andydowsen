@@ -41,7 +41,7 @@ SCSS         22 mins         >>-----------------------   06.91 %
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=i-ice-bear)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-ice-bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/i-ice-bear)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=i-ice-bear&show_icons=true)  
 
