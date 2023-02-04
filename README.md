@@ -22,7 +22,7 @@ Skills: ReactJS / HTML / CSS / Javascript / Java / C / C++ / NodeJS / Assembly (
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 02 February 2023
+From: 18 January 2023 - To: 03 February 2023
 
 Total Time: 5 hrs 24 mins
 
