@@ -105,16 +105,16 @@ Well, I deep-dived into this field in 2021 during my learning career I learned m
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 January 2023 - To: 12 March 2023
+From: 18 January 2023 - To: 13 March 2023
 
-Total Time: 27 hrs 46 mins
+Total Time: 30 hrs 34 mins
 
-JavaScript       9 hrs 19 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.55 %
-Java             3 hrs 7 mins    🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.27 %
-C                2 hrs 59 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.75 %
-JSON             2 hrs 57 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.63 %
-HTML             1 hr 14 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.48 %
-TypeScript       1 hr 11 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.28 %
+JavaScript       9 hrs 19 mins   >>>>>>>>-----------------   30.48 %
+C                5 hrs 29 mins   >>>>---------------------   17.99 %
+Java             3 hrs 8 mins    >>>----------------------   10.28 %
+JSON             2 hrs 57 mins   >>-----------------------   09.66 %
+HTML             1 hr 14 mins    >------------------------   04.07 %
+TypeScript       1 hr 11 mins    >------------------------   03.89 %
 ```
 
 <!--END_SECTION:waka-->
