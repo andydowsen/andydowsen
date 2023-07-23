@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Naagar</h1>
-<h3 align="center">A teenager self taught computer scientist from India</h3>
+<h3 align="center">A computer geek'o</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i-ice-bear&label=Profile%20views&color=0e75b6&style=flat" alt="i-ice-bear" /> </p>
 
