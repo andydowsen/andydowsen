@@ -35,7 +35,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-ice-bear&" alt="i-ice-bear" /></p>
 
 
-[![Anshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=i-ice-bear&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6483006d87dba4077123ef03?variant=dark)](https://roadmap.sh)
 
 <!--START_SECTION:waka-->
 
